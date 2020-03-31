@@ -1,0 +1,642 @@
+[
+  {
+    "Fish": "Anchovy",
+    "Sell Price": 200,
+    "Location": "Sea",
+    "Time": "4a-9p",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Angelfish",
+    "Sell Price": 3000,
+    "Location": "River",
+    "Time": "4p-9a",
+    "North Months": "May, Jun, July, August, Sep, Oct",
+    "South Months": "Jan, Feb, Mar, Apr, Nov, Dec"
+  },
+  {
+    "Fish": "Arapaima",
+    "Sell Price": 10000,
+    "Location": "River",
+    "Time": "4p-9a",
+    "North Months": "Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Arowana",
+    "Sell Price": 10000,
+    "Location": "River",
+    "Time": "4p-9a",
+    "North Months": "Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Barred Knifejaw",
+    "Sell Price": 5000,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",
+    "South Months": "Jan, Feb, Mar, Apr, May, Sep"
+  },
+  {
+    "Fish": "Barreleye",
+    "Sell Price": 15000,
+    "Location": "Sea",
+    "Time": "9p-4a",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Betta",
+    "Sell Price": 2500,
+    "Location": "River",
+    "Time": "9a-4p",
+    "North Months": "May, Jun, Jul, Aug, Sep, Oct",
+    "South Months": "Jan, Feb, Mar, Apr, Nov, Dec"
+  },
+  {
+    "Fish": "Bitterling",
+    "Sell Price": 900,
+    "Location": "River",
+    "Time": "All",
+    "North Months": "Jan, Feb, Mar, Nov, Dec",
+    "South Months": "May, Jun, Jul, Aug, Sep"
+  },
+  {
+    "Fish": "Black Bass",
+    "Sell Price": 400,
+    "Location": "River",
+    "Time": "All",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Blowfish",
+    "Sell Price": 5000,
+    "Location": "Sea",
+    "Time": "9p-4a",
+    "North Months": "Jan, Feb, Nov, Dec",
+    "South Months": "May, Jun, Jul, Aug"
+  },
+  {
+    "Fish": "Blue Marlin",
+    "Sell Price": 10000,
+    "Location": "Pier",
+    "Time": "All",
+    "North Months": "Jan, Feb, Mar, Apr, Jul, Aug, Sep, Nov, Dec",
+    "South Months": "Jan, Feb, Mar, May, Jun, Jul, Aug, Sep, Oct, Nov"
+  },
+  {
+    "Fish": "Bluegill",
+    "Sell Price": 180,
+    "Location": "River",
+    "Time": "9a-4p",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Butterfly Fish",
+    "Sell Price": 1000,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Apr, May, Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Carp",
+    "Sell Price": 300,
+    "Location": "Pond",
+    "Time": "All",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Catfish",
+    "Sell Price": 800,
+    "Location": "Pond",
+    "Time": "4p-9a",
+    "North Months": "May, Jun, Jul, Aug, Sep, Oct",
+    "South Months": "Jan, Feb, Mar, Apr, Nov, Dec"
+  },
+  {
+    "Fish": "Char",
+    "Sell Price": 3800,
+    "Location": "River (Clifftop)",
+    "Time": "4p-9a",
+    "North Months": "Mar, Apr, May, Jun, Sep, Oct, Nov",
+    "South Months": "Mar, Apr, May, Sep, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Cherry Salmon",
+    "Sell Price": 1000,
+    "Location": "River (Clifftop)",
+    "Time": "4p-9a",
+    "North Months": "Mar, Apr, May, Jun, Sep, Oct, Nov",
+    "South Months": "Mar, Apr, May, Sep, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Clowfish",
+    "Sell Price": 650,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Apr, May, Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Coelacanth",
+    "Sell Price": 15000,
+    "Location": "Sea (Rainy Days)",
+    "Time": "All",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Crawfish",
+    "Sell Price": 200,
+    "Location": "Pond",
+    "Time": "All",
+    "North Months": "Apr, May, Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Crucian Carp",
+    "Sell Price": 160,
+    "Location": "River",
+    "Time": "All",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Dab",
+    "Sell Price": 300,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Jan, Feb, Mar, Apr, Oct, Nov, Dec",
+    "South Months": "Apr, May, Jun, Jul, Aug, Sep, Oct"
+  },
+  {
+    "Fish": "Dace",
+    "Sell Price": 340,
+    "Location": "River",
+    "Time": "4p-9a",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Dorado",
+    "Sell Price": 15000,
+    "Location": "River",
+    "Time": "4a-9p",
+    "North Months": "Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Football Fish",
+    "Sell Price": 2500,
+    "Location": "Sea",
+    "Time": "4p-9a",
+    "North Months": "Jan, Feb, Mar, Nov, Dec",
+    "South Months": "May, Jun, Jul, Aug, Sep"
+  },
+  {
+    "Fish": "Freshwater Gobi",
+    "Sell Price": 400,
+    "Location": "River",
+    "Time": "4p-9a",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Frog",
+    "Sell Price": 120,
+    "Location": "Pond",
+    "Time": "All",
+    "North Months": "May, Jun, Jul, Aug",
+    "South Months": "Jan, Feb, Nov, Dec"
+  },
+  {
+    "Fish": "Gar",
+    "Sell Price": 6000,
+    "Location": "Pond",
+    "Time": "4p-9a",
+    "North Months": "Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Apr"
+  },
+  {
+    "Fish": "Gaint Snakehead",
+    "Sell Price": 5500,
+    "Location": "Pond",
+    "Time": "9a-4p",
+    "North Months": "Jun, Jul, Aug",
+    "South Months": "Jan, Feb, Dec"
+  },
+  {
+    "Fish": "Giant Trevally",
+    "Sell Price": 4500,
+    "Location": "Pier",
+    "Time": "All",
+    "North Months": "May, Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Apr, Nov, Dec"
+  },
+  {
+    "Fish": "Golden Trout",
+    "Sell Price": 15000,
+    "Location": "River (Clifftop)",
+    "Time": "4p-9a",
+    "North Months": "Mar, Apr, May, Sep, Oct, Nov",
+    "South Months": "Mar, Apr, May, Sep, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Goldfish",
+    "Sell Price": 1300,
+    "Location": "Pond",
+    "Time": "All",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Great White Shark",
+    "Sell Price": 15000,
+    "Location": "Sea",
+    "Time": "4p-9a",
+    "North Months": "Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Guppy",
+    "Sell Price": 1300,
+    "Location": "River",
+    "Time": "9a-4p",
+    "North Months": "Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",
+    "South Months": "Jan, Feb, Mar, Apr, May, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Hammerhead Shark",
+    "Sell Price": 8000,
+    "Location": "Sea",
+    "Time": "4p-9a",
+    "North Months": "Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Horse Mackerel",
+    "Sell Price": 150,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Killifish",
+    "Sell Price": 300,
+    "Location": "Pond",
+    "Time": "All",
+    "North Months": "Apr, Mar, Jun, Jul, Aug",
+    "South Months": "Jan, Feb, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "King Salmon",
+    "Sell Price": 1800,
+    "Location": "River (Mouth)",
+    "Time": "All",
+    "North Months": "Sep",
+    "South Months": "Mar"
+  },
+  {
+    "Fish": "Koi",
+    "Sell Price": 4000,
+    "Location": "Pond",
+    "Time": "4p-9a",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Loach",
+    "Sell Price": 400,
+    "Location": "River",
+    "Time": "All",
+    "North Months": "Mar, Apr, May",
+    "South Months": "Sep, Oct, Nov"
+  },
+  {
+    "Fish": "Mahi-Mahi",
+    "Sell Price": 6000,
+    "Location": "Pier",
+    "Time": "All",
+    "North Months": "May, Jun, Jul, Aug, Sep, Oct",
+    "South Months": "Jan, Feb, Mar, Apr, Nov, Dec"
+  },
+  {
+    "Fish": "Mitten Crab",
+    "Sell Price": 2000,
+    "Location": "River",
+    "Time": "4p-9a",
+    "North Months": "Sep, Oct, Nov",
+    "South Months": "Mar, Apr, May"
+  },
+  {
+    "Fish": "Moray Eel",
+    "Sell Price": 2000,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Aug, Sep, Oct",
+    "South Months": "Feb, Mar, Apr"
+  },
+  {
+    "Fish": "Napoleonfish",
+    "Sell Price": 10000,
+    "Location": "Sea",
+    "Time": "4a-9p",
+    "North Months": "Jul, Aug",
+    "South Months": "Jan, Feb"
+  },
+  {
+    "Fish": "Neon Tetra",
+    "Sell Price": 500,
+    "Location": "River",
+    "Time": "9a-4p",
+    "North Months": "Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",
+    "South Months": "Jan, Feb, Mar, Apr, May, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Nibble Fish",
+    "Sell Price": 1500,
+    "Location": "River",
+    "Time": "9a-4p",
+    "North Months": "May, Jun, Jul, Aug, Sept",
+    "South Months": "Jan, Feb, Mar, Nov, Dec"
+  },
+  {
+    "Fish": "Oarfish",
+    "Sell Price": 9000,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Jan, Feb, Mar, Apr, May, Dec",
+    "South Months": "Jun, Jul, Aug, Sep, Oct, Nov"
+  },
+  {
+    "Fish": "Ocean Sunfish",
+    "Sell Price": 4000,
+    "Location": "Sea",
+    "Time": "4a-9p",
+    "North Months": "Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar"
+  },
+  {
+    "Fish": "Olive Flounder",
+    "Sell Price": 800,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Pale Chub",
+    "Sell Price": 160,
+    "Location": "River",
+    "Time": "9a-4p",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Pike",
+    "Sell Price": 1800,
+    "Location": "River",
+    "Time": "All",
+    "North Months": "Sep, Oct, Nov, Dec",
+    "South Months": "Mar, Apr, May, Jun"
+  },
+  {
+    "Fish": "Piranha",
+    "Sell Price": 2500,
+    "Location": "River",
+    "Time": "9a-4p & 9p-4a",
+    "North Months": "Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Pond Smelt",
+    "Sell Price": 500,
+    "Location": "River",
+    "Time": "All",
+    "North Months": "Jan, Feb, Dec",
+    "South Months": "Jun, Jul, Aug"
+  },
+  {
+    "Fish": "Pop-Eyed Goldfish",
+    "Sell Price": 1300,
+    "Location": "Pond",
+    "Time": "9a-4p",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Puffer Fish",
+    "Sell Price": 250,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar"
+  },
+  {
+    "Fish": "Rainbowfish",
+    "Sell Price": 800,
+    "Location": "River",
+    "Time": "9a-4p",
+    "North Months": "May, Jun, Jul, Aug, Sep, Oct",
+    "South Months": "Jan, Feb, Mar, Apr, Nov, Dec"
+  },
+  {
+    "Fish": "Ranchu Goldfish",
+    "Sell Price": 4500,
+    "Location": "Pond",
+    "Time": "9a-4p",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Ray",
+    "Sell Price": 3000,
+    "Location": "Sea",
+    "Time": "4a-9p",
+    "North Months": "Aug, Sep, Oct, Nov",
+    "South Months": "Feb, Mar, Apr, May"
+  },
+  {
+    "Fish": "Red Snapper",
+    "Sell Price": 3000,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Ribbon Eel",
+    "Sell Price": 600,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Jun, Jul, Aug, Sep, Oct",
+    "South Months": "Jan, Feb, Mar, Apr, Dec"
+  },
+  {
+    "Fish": "Saddled Bichir",
+    "Sell Price": 4000,
+    "Location": "River",
+    "Time": "9p-4a",
+    "North Months": "Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Salmon",
+    "Sell Price": 700,
+    "Location": "River (Mouth)",
+    "Time": "All",
+    "North Months": "Sep",
+    "South Months": "Mar"
+  },
+  {
+    "Fish": "Saw Shark",
+    "Sell Price": 12000,
+    "Location": "Sea",
+    "Time": "4p-9a",
+    "North Months": "Jun, Jul, Aug, Sep",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Sea Bass",
+    "Sell Price": 400,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "All",
+    "South Months": "All"
+  },
+  {
+    "Fish": "Sea Butterfly",
+    "Sell Price": 1000,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Jan, Feb, Mar, Dec",
+    "South Months": "Jun, Jul, Aug, Sep"
+  },
+  {
+    "Fish": "Seahorse",
+    "Sell Price": 1100,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",
+    "South Months": "Jan, Feb, Mar, Apr, May, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Snapping Turtle",
+    "Sell Price": 5000,
+    "Location": "River",
+    "Time": "9p-4a",
+    "North Months": "Apr, May, Jun, Jul, Aug, Sep, Oct",
+    "South Months": "Jan, Feb, Mar, Apr, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Soft-Shelled Turtle",
+    "Sell Price": 3750,
+    "Location": "River",
+    "Time": "4p-9a",
+    "North Months": "Aug, Sep",
+    "South Months": "Feb, Mar"
+  },
+  {
+    "Fish": "Squid",
+    "Sell Price": 500,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Dec",
+    "South Months": "Jan, Feb, Jun, Jul, Aug, Sept, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Stringfish",
+    "Sell Price": 15000,
+    "Location": "River (Clifftop)",
+    "Time": "4p-9a",
+    "North Months": "Jan, Feb, Mar, Dec",
+    "South Months": "Jun, Jul, Aug, Sept"
+  },
+  {
+    "Fish": "Sturgeon",
+    "Sell Price": 10000,
+    "Location": "River (Mouth)",
+    "Time": "All",
+    "North Months": "Jan, Feb, Mar, Sept, Oct, Nov, Dec",
+    "South Months": "Mar, Apr, May, Jun, Jul, Aug, Sept"
+  },
+  {
+    "Fish": "Suckerfish",
+    "Sell Price": 1500,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Jun, Jul, Aug, Sept",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Surgeonfish",
+    "Sell Price": 1000,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Apr, May, Jun, Jul, Aug, Sept",
+    "South Months": "Jan, Feb, ,ar, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Sweetfish",
+    "Sell Price": 900,
+    "Location": "River",
+    "Time": "All",
+    "North Months": "Jul, Aug, Sept",
+    "South Months": "Jan, Feb, Mar"
+  },
+  {
+    "Fish": "Tadpole",
+    "Sell Price": 100,
+    "Location": "Pond",
+    "Time": "All",
+    "North Months": "Mar, Apr, May, Jun, Jul",
+    "South Months": "Jan, Spet, Oct, Nov, Dec"
+  },
+  {
+    "Fish": "Tilapia",
+    "Sell Price": 800,
+    "Location": "River",
+    "Time": "All",
+    "North Months": "Jun, Jul, Aug, Sept, Oct",
+    "South Months": "Jan, Feb, Mar, Apr, Dec"
+  },
+  {
+    "Fish": "Tuna",
+    "Sell Price": 7000,
+    "Location": "Pier",
+    "Time": "All",
+    "North Months": "Jan, Feb, Mar, Apr, Nov, Dec",
+    "South Months": "May, Jun, Jul, Aug, Sept, Oct"
+  },
+  {
+    "Fish": "Whale Shark",
+    "Sell Price": 13000,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Jun, Jul, Aug, Sept",
+    "South Months": "Jan, Feb, Mar, Dec"
+  },
+  {
+    "Fish": "Yellow Perch",
+    "Sell Price": 300,
+    "Location": "River",
+    "Time": "All",
+    "North Months": "Jan, Feb, Mar, Oct, Nov, Dec",
+    "South Months": "Apr, May, Jun, Jul, Aug, Sep"
+  },
+  {
+    "Fish": "Zebra Turkeyfish",
+    "Sell Price": 500,
+    "Location": "Sea",
+    "Time": "All",
+    "North Months": "Apr, May, Jun, Jul, Aug, Sept, Oct, Nov",
+    "South Months": "Jan, Feb, Mar, Apr, May, Oct, Nov, Dec"
+  }
+]
